@@ -19,7 +19,7 @@ def get_csv():
     df = pd.read_csv(f'tmp\\CelularesSubtraidos_{ano}.csv')
     return df
 
-df = get_csv().head(500)
+df = get_csv()
 st.dataframe(df.columns, use_container_width=True)
 
 collection = {
