@@ -3,3 +3,5 @@ convert.py
 data/SPDadosCriminais_2023_parte1.csv
 data/SPDadosCriminais_2023_parte2.csv
 data/SPDadosCriminais_2024.csv
+tmp/CelularesSubtraidos_2017.xlsx
+tmp/CelularesSubtraidos_2017.csv

@@ -25,7 +25,7 @@ else:
 
 warnings.filterwarnings('ignore')
 st.set_page_config(
-    page_title='Template',
+    page_title='Mapa da Criminalidade SP',
     layout="wide"
 )
 
