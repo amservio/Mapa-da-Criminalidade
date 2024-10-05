@@ -32,7 +32,7 @@ for idx, row in df.iterrows():
             'type': 'Feature',
             'geometry': {
                 'type': 'Point',
-                'coordinates': [row['LATITUDE'], row['LONGITUDE']]
+                'coordinates': [row['LONGITUDE'], row['LATITUDE']]
             },
             'properties': {
                 'categoria': row['RUBRICA']
